@@ -1,3 +1,3 @@
-Algoritmo holamundo
-	Escribir "Hola mundo"
+Algoritmo sin_titulo
+
 FinAlgoritmo
